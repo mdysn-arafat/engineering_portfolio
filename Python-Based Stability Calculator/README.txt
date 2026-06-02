@@ -1,0 +1,1 @@
+This project is a Python-based stability calculator developed for a yacht using data from an existing stability booklet. It evaluates basic stability parameters to support preliminary naval architectural analysis and assessment.
