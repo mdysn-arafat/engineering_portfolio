@@ -1,0 +1,28 @@
+# Data Analysis & Machine Learning
+
+This folder contains my exploratory work in **Data Analysis** and **Machine Learning**, which I learned independently out of personal interest and curiosity in engineering analytics.
+
+## Topics Explored
+
+* Data cleaning and preprocessing
+* Exploratory Data Analysis (EDA)
+* Data visualization using Python
+* Statistical analysis and regression
+* Linear and Polynomial Regression
+* Basic Machine Learning workflows
+* Model evaluation and prediction
+
+## Tools & Libraries
+
+* Python
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-learn
+* Statsmodels
+
+## Purpose of This Folder
+
+The projects and notebooks in this directory represent my **self-learning journey** and practical experimentation with data analysis techniques. While these are not my primary professional focus, they reflect my interest in expanding technical capabilities beyond conventional naval architecture and structural engineering workflows.
+
+I enjoy learning interdisciplinary skills that can complement engineering tasks, automation, optimization, and data-driven decision-making.
